@@ -11,7 +11,7 @@
 # This is the second version of this script, see CHANGELOG for all of the changes I have made.
  
  
-VNCUSER="change_to_current_user_before_running"
+VNCUSER="fando"
  
  
 #----------DO NOT EDIT BELOW THIS LINE---------------
